@@ -1,0 +1,3 @@
+window = {
+	style = S(FILL);
+};
